@@ -21,3 +21,8 @@ Tela Splash
 
 ![image](https://drive.google.com/uc?export=view&id=19bXct38jDWseuDIbpkPOoJIiCFnv6QTM)
 Tela Home
+
+img[alt="image"] { 
+  max-width:  20px; 
+  display: block;
+}
