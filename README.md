@@ -16,13 +16,5 @@ App encurtador de link, utilizando o serviço do bitly, persistindo no app os li
 
 ## 📝 Screenshots
 
-![image](https://drive.google.com/uc?export=view&id=19b_h66jCxkz1pEF6yhWI7V8lSmr2QuNq)
-Tela Splash
+<img src="https://github.com/favicon.ico" width="48">
 
-![image](https://drive.google.com/uc?export=view&id=19bXct38jDWseuDIbpkPOoJIiCFnv6QTM)
-Tela Home
-
-img[alt="image"] { 
-  max-width:  20px; 
-  display: block;
-}
