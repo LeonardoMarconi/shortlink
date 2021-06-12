@@ -16,5 +16,6 @@ App encurtador de link, utilizando o serviço do bitly, persistindo no app os li
 
 ## 📝 Screenshots
 
-<img src="https://github.com/favicon.ico" width="48">
+Tela de Splash
+<img src="https://drive.google.com/uc?export=view&id=19bXct38jDWseuDIbpkPOoJIiCFnv6QTM" width="150" height="300">
 
