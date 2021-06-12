@@ -13,3 +13,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 App encurtador de link, utilizando o serviço do bitly, persistindo no app os links encurtados e podendo abri-los direto do app com webview.
+
+## 📝 Screenshots
+
+![image](https://drive.google.com/uc?export=view&id=19b_h66jCxkz1pEF6yhWI7V8lSmr2QuNq)
+Tela Splash
+
+![image](https://drive.google.com/uc?export=view&id=19bXct38jDWseuDIbpkPOoJIiCFnv6QTM)
+Tela Home
