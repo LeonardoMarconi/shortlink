@@ -1,4 +1,10 @@
-# ShortLink
+# 🔗🌎 ShortLink
+![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoMarconi/shortlink?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/LeonardoMarconi/shortlink?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/LeonardoMarconi/shortlink?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LeonardoMarconi/shortlink?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LeonardoMarconi/shortlink?style=for-the-badge)
+
 App encurtador de link, utilizando o serviço do bitly, persistindo no app os links encurtados e podendo abri-los direto do app com webview.
 Pensado e idealizado pelo @Sujeito Programador para o Insider, onde tive a oportunidade de embarcar nesta tecnologia.
 
